@@ -1,0 +1,3 @@
+/Users/kaxon/Documents/coding/git_shared_code/c/palindrome/palindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kaxon/Documents/coding/git_shared_code/c/palindrome/palindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kaxon/Documents/coding/git_shared_code/c/palindrome/palindrome/cmake-build-debug/CMakeFiles/lab3.dir
